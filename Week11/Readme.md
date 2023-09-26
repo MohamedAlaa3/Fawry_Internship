@@ -2,6 +2,10 @@
 
 This Java Spring Boot project is a healthcare system that provides RESTful APIs for managing hospitals, doctors, patients, and drug prescriptions. The system allows hospitals to employ multiple doctors, assigns each patient to a specific doctor, tracks drug prescriptions for patients, and manages patient records.
 
+<img width="619" alt="Screenshot 2023-09-26 at 2 47 01 PM" src="https://github.com/MohamedAlaa3/Fawry_Internship/assets/93541421/48fda3de-a609-4bce-a6c4-90b5aac1a352">
+
+
+
 ## Features
 
 - Create, read, update, and delete hospitals.
