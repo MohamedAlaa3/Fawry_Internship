@@ -1,0 +1,6 @@
+com/Fawry/Hospital/Entites/Hospital.class
+com/Fawry/Hospital/Entites/Doctor.class
+com/Fawry/Hospital/Entites/Drug.class
+com/Fawry/Hospital/HospitalApplication.class
+com/Fawry/Hospital/Entites/HibernateUtil.class
+com/Fawry/Hospital/Entites/Patient.class
