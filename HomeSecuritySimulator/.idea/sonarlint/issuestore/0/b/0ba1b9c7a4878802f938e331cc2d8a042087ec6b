@@ -1,0 +1,18 @@
+
+f	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àşà
+k	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¶¶ìıÿÿÿÿ
+V
+java:S1854"9Remove this useless assignment to local variable "myLog".(ÍÑ¬ï8ŞÜÏ¦1
+S	java:S106"9Replace this use of System.out or System.err by a logger.(àå§Ûùÿÿÿÿ
+G
+java:S1481"*Remove this unused "myLog" local variable.(ÍÑ¬ï8áÜÏ¦1
+]	java:S1252"<This block of commented-out lines of code should be removed.(ÓÈò¯üÿÿÿÿ8äÜÏ¦1
+X	java:S1257"<This block of commented-out lines of code should be removed.(¨×ä·8Î¶Ï¦1
+]	java:S125="<This block of commented-out lines of code should be removed.(Á­“ÿúÿÿÿÿ8óÏ¦1
+V
+java:S1128	"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8æÜÏ¦1
+\
+java:S1128
+"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª8æÜÏ¦1
+F
+java:S1128"0Remove this unused import 'java.io.PrintWriter'.(ÓŞÏÛ
