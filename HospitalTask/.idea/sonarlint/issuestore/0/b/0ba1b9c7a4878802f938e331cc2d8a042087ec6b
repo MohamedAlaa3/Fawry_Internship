@@ -1,0 +1,22 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(ü°¸¢øÿÿÿÿ8Í‚­1
+]	java:S125"<This block of commented-out lines of code should be removed.(ÎÍ§˜ûÿÿÿÿ8Î‚­1
+W	java:S125"<This block of commented-out lines of code should be removed.(ñ½å_8Î‚­1
+G	java:S106"+Replace this use of System.out by a logger.(Ÿ§Ş8Î‚­1
+L	java:S106"+Replace this use of System.out by a logger.(ü°¸¢øÿÿÿÿ8Î‚­1
+X	java:S125("<This block of commented-out lines of code should be removed.(Ù®÷×8Ï‚­1
+]	java:S125V"<This block of commented-out lines of code should be removed.(©Ò¹Èûÿÿÿÿ8Ï‚­1
+W	java:S125Z"<This block of commented-out lines of code should be removed.(ïÀ›D8Ï‚­1
+J
+java:S1128"(Remove this unused import 'lombok.Data'.(÷í«ÿÿÿÿÿ8Ğ‚­1
+T
+java:S1128"2Remove this unused import 'org.hibernate.Session'.(È¹›§ùÿÿÿÿ8Ğ‚­1
+N
+java:S1128",Remove this unused import 'javax.print.Doc'.(ö«‘™ıÿÿÿÿ8Ğ‚­1
+W
+java:S1128	"5Remove this unused import 'java.nio.charset.Charset'.(ü¶ØŸıÿÿÿÿ8Ğ‚­1
+M
+java:S1128
+"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ğ‚­1
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8Ğ‚­1
